@@ -1,2 +1,4 @@
 # Graph-Algorithms
-An exploration of graph construction and algorithms.
+Directed-Weighted Graph representation with Prim's Minimum Spanning Tree and Dijkstra's Shortest Path Algorithm's.
+
+
